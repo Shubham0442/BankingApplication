@@ -4,7 +4,7 @@ const questions = [
         type: "list",
         name : "ops",
         message : "What operation need to do",
-        choices : [ "CREATE", "WITHDRAW", "DEPOSIT"],
+        choices : [ "CREATE", "WITHDRAW", "DEPOSIT", "SHOW BALANCE"],
     },
     {
         type : "input",
