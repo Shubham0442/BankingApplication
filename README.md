@@ -13,6 +13,9 @@ select the opetations with Arrow keys
 - DEPOSIT 
 - SHOW BALANCE
 
+### Note:
+To perform any operation, have to run command ***npm run start*** or ***node index.js*** every time
+
 ## Steps to perform the Selected operation 
 ### CREATE 
 - After selecting the operation to be performed, it will ask to ***"Enter command"***, so run the command with keyword ***"CREATE"***, followed by ***"account number"*** and ***"name"***
